@@ -1,0 +1,15 @@
+{
+  "name": "strapi-provider-upload-minio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mime-types": "2.1.35",
+    "minio": "7.0.19"
+  },
+  "author": "",
+  "license": "ISC"
+}
